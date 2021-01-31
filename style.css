@@ -1,0 +1,31 @@
+body{
+background-image: url("https://i.pinimg.com/736x/a9/80/22/a98022cdb8b339e11542132b6428ac92.jpg");
+background-size: cover;
+color: white;
+font-family: 'Potta One', cursive;
+}
+#footer{
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: mediumaquamarine;
+    line-height: 1.5;
+    font-size: 22px;
+}
+.header-div{
+    background-color: mediumturquoise;
+    font-size: 20px;
+    box-shadow: 10px 10px 20px blanchedalmond;
+    margin-top: 0;
+    padding: 5px;
+}
+#note{
+    font-size: 18px;
+    color: darkmagenta;
+}
+canvas{
+     border: 5px ridge rebeccapurple;
+     box-shadow: 10px 10px 20px white;
+
+}
